@@ -1,2 +1,2 @@
 # AIDI-DataSets
-A repo for the datasets used in my AIDI program.
+A repo for the datasets and files used in my AIDI program.
